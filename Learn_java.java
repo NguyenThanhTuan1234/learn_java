@@ -16,6 +16,7 @@ public class Learn_java {
      */
     public static void main(String[] args) {
         System.out.println("Hoc java");
+        System.out.println("Hoc Git");
     }
     
 }
